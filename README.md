@@ -1,6 +1,6 @@
- Fala sobre mim
+ # Fala sobre mim
  
- 👋 Hi, I’m @carolinajesus
+ 👋 oi eu sou a carolina.jesus.silva@escola.pr.gov.br
 - 👀 eu to interessado de fazer o curso
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
